@@ -1,9 +1,9 @@
 # Notas-Git-GitHub
 
-##Comandos básicos de Git
+## Comandos básicos de Git
 
 
-###Configurar Git
+### Configurar Git
 
 **Establecer configuración global obligatoria**
 git config --global user.name "nombre de usuario"
