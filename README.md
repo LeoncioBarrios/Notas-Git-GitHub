@@ -15,7 +15,14 @@ git config --global user.email "correo@electronico.com"
 git config --list    <= Lista todas la propiedades configuradas.
 git config <clave>   <= Permite ver el valor de una clave en específico.
 
+
 **Obtener ayuda**
+
+git help
+git help <verbo>
+git <verbo> --help
+
+                              
 
 git init
 git add README.md
