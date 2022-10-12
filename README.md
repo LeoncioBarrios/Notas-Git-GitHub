@@ -28,7 +28,7 @@ git \<verbo> --help<br>
 ### Iniciar un repositorio local
 
 git init <br>
-git add \<archivo> |  \<patrón de archivos> | . <br>
+git add \<archivo> |  \<patrón de archivos> | \< . > <br>
 git commit -m "comentario alusivo al commit" <br>
 
 
