@@ -11,6 +11,8 @@ git config --global user.name "nombre de usuario"
 
 git config --global user.email "correo@electronico.com"
 
+<br>
+<br>
 
 **Otros comandos de configuración**
 
