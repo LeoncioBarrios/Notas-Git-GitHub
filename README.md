@@ -9,9 +9,8 @@
 **Establecer configuración global obligatoria**
 
 git config --global user.name "nombre de usuario"<br>
-git config --global user.email \"correo@electronico.com"<br>
+git config --global user.email "correo@electronico.com"<br>
 
-<br>
 <br>
 
 **Otros comandos de configuración**
@@ -19,13 +18,13 @@ git config --global user.email \"correo@electronico.com"<br>
 git config --list    <= Lista todas la propiedades configuradas.<br>
 git config <clave>   <= Permite ver el valor de una clave en específico.<br>
 
-
+<br>
 
 **Obtener ayuda**
 
-git help
-git help <verbo>
-git <verbo> --help
+git help<br>
+git help <verbo><br>
+git <verbo> --help<br>
 
                               
 
