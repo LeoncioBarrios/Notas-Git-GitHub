@@ -2,6 +2,7 @@
 
 ## Comandos básicos de Git
 
+<br>
 
 ### Configurar Git
 
