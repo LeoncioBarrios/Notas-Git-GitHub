@@ -31,18 +31,12 @@ git init <br>
 git add \<archivo> |  \<patrón de archivos> | \< . > <br>
 git commit -m "comentario alusivo al commit" <br>
 
+<br>
 
+### Subir un repositorio local a un repositorio remoto
 
-
-
-
- <br>
-  <br>
-   <br>
-    <br>
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LeoncioBarrios/NSiaya.git
-git push -u origin main
+git init <br>
+git add \<archivo> |  \<patrón de archivos> | \< . > <br>
+git commit -m "comentario alusivo al commit" <br>
+git remote add origin \<url repositorio remoto> <br>
+git push -u origin \<branch> <br>
