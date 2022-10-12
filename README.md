@@ -9,7 +9,7 @@
 **Establecer configuración global obligatoria**
 
 git config --global user.name "nombre de usuario"<br>
-git config --global user.email "correo\@electronico.com"<br>
+git config --global user.email "correo@electronico.com"<br>
 
 <br>
 <br>
