@@ -21,8 +21,8 @@ git config <clave>   <= Permite ver el valor de una clave en específico.<br>
 **Obtener ayuda**
 
 git help<br>
-git help <verbo><br>
-git <verbo> --help<br>
+git help \<verbo><br>
+git \<verbo> --help<br>
 
                               
 
