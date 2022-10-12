@@ -15,8 +15,9 @@ git config --global user.email "correo@electronico.com"<br>
 **Otros comandos de configuración**
 
 git config --list    <= Lista todas la propiedades configuradas.<br>
-git config <clave>   <= Permite ver el valor de una clave en específico.<br>
+git config \<clave>   <= Permite ver el valor de una clave en específico.<br>
 
+<br>
 
 **Obtener ayuda**
 
@@ -24,9 +25,21 @@ git help<br>
 git help \<verbo><br>
 git \<verbo> --help<br>
 
+### Iniciar un repositorio local
+
+git init <br>
+git add \<archivo> |  \<patrón de archivos> | . <br>
+git commit -m "comentario alusivo al commit" <br>
 
 
 
+
+
+
+ <br>
+  <br>
+   <br>
+    <br>
 git init
 git add README.md
 git commit -m "first commit"
