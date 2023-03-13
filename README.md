@@ -42,21 +42,21 @@ git remote add origin \<url repositorio remoto> <br>
 git push -u origin \<branch> <br>
 
 
-### trabajar con ramas.
+### Trabajar con ramas.
 
-**Crear una nueva rama**
+**Crear una nueva rama** <br>
   git branch _nombre_nueva_rama_
 
-**Cambiar de rama**
+**Cambiar de rama** <br>
   git checkout _nombre_rama_
 
-**Crear y cambiarse a la nueva rama**
+**Crear y cambiarse a la nueva rama** <br>
   git checkout -b _nombre_nueva_rama_
 
-**Renombrar una rama**
-  git branch -m _viejo_nombre_rama_ _nuevo_nombre_rama_
+**Renombrar una rama** <br>
+  git branch -m _viejo_nombre_rama_ _nuevo_nombre_rama_ <br>
   
-  ó
+  ó <br>
   
-  git branch --move _viejo_nombre_rama_ _nuevo_nombre_rama_
+  git branch --move _viejo_nombre_rama_ _nuevo_nombre_rama_ <br>
 
