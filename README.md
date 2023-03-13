@@ -43,3 +43,20 @@ git push -u origin \<branch> <br>
 
 
 ### trabajar con ramas.
+
+**Crear una nueva rama**
+  git branch _nombre_nueva_rama_
+
+**Cambiar de rama**
+  git checkout _nombre_rama_
+
+**Crear y cambiarse a la nueva rama**
+  git checkout -b _nombre_nueva_rama_
+
+**Renombrar una rama**
+  git branch -m _viejo_nombre_rama_ _nuevo_nombre_rama_
+  
+  ó
+  
+  git branch --move _viejo_nombre_rama_ _nuevo_nombre_rama_
+
