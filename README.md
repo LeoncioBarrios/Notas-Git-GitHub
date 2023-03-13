@@ -40,3 +40,6 @@ git add \<archivo> |  \<patrón de archivos> | \< . > <br>
 git commit -m "comentario alusivo al commit" <br>
 git remote add origin \<url repositorio remoto> <br>
 git push -u origin \<branch> <br>
+
+
+### trabajar con ramas.
